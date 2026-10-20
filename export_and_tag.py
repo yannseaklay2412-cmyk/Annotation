@@ -20,27 +20,33 @@ OUTPUT_JSON = ROOT / "annotated_dataset.json"
 OUTPUT_CSV = ROOT / "annotated_dataset.csv"
 
 
-def auto_tag_token(token: str) -> Tuple[str, str]:
+def auto_tag_token(token: str) -> List[Tuple[str, str]]:
     """
-    Classifies a token as [km], [en], [mixed], or [punct].
+    Classifies a token as [km], [en], [num], or [punct].
+    If a token combines both Khmer and English (e.g. missing space like 'រៀនcode'),
+    it splits them by script boundary into separate [km] and [en] tokens.
     """
     clean_tok = re.sub(r"[^\w\u1780-\u17FF]", "", token)
     if not clean_tok:
-        return token, "[punct]"
+        return [(token, "[punct]")]
 
     has_khmer = bool(re.search(r"[\u1780-\u17FF]", clean_tok))
     has_english = bool(re.search(r"[a-zA-Z]", clean_tok))
 
     if has_khmer and has_english:
-        return token, "[mixed]"
+        sub_tokens = re.findall(r"[\u1780-\u17FF]+|[a-zA-Z]+|\d+|[^\w\s\u1780-\u17FF]+", token)
+        results = []
+        for st in sub_tokens:
+            results.extend(auto_tag_token(st))
+        return results
     elif has_english:
-        return token, "[en]"
+        return [(token, "[en]")]
     elif has_khmer:
-        return token, "[km]"
+        return [(token, "[km]")]
     elif clean_tok.isdigit():
-        return token, "[num]"
+        return [(token, "[num]")]
     else:
-        return token, "[other]"
+        return [(token, "[other]")]
 
 
 def tag_sentence(sentence: str) -> Tuple[str, List[Dict[str, str]]]:
@@ -49,14 +55,14 @@ def tag_sentence(sentence: str) -> Tuple[str, List[Dict[str, str]]]:
     1. Formatted tagged text: "ការពារ [km] traditional [en] clothes [en]"
     2. Structured list: [{"word": "ការពារ", "tag": "km"}, ...]
     """
-    tokens = sentence.split()
+    raw_tokens = sentence.split()
     formatted_parts = []
     token_records = []
 
-    for tok in tokens:
-        word, tag = auto_tag_token(tok)
-        formatted_parts.append(f"{word} {tag}")
-        token_records.append({"word": word, "tag": tag.replace("[", "").replace("]", "")})
+    for tok in raw_tokens:
+        for word, tag in auto_tag_token(tok):
+            formatted_parts.append(f"{word} {tag}")
+            token_records.append({"word": word, "tag": tag.replace("[", "").replace("]", "")})
 
     return " ".join(formatted_parts), token_records
 

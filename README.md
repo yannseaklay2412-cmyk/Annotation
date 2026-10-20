@@ -16,7 +16,7 @@ This repository hosts the semi-automated data curation, audio preprocessing, Lab
 * **Key Annotation Granularities:**
   * Dual-script verbatim transcripts (Khmer script + Latin script for English words).
   * Word-level and segment-level timestamps.
-  * Code-switch boundaries and language tags (`[km]`, `[en]`, `[mixed]`).
+  * Code-switch boundaries and language tags (`[km]`, `[en]`).
   * Quality and uncertainty markers.
 
 Full specifications and project proposals can be found in the [`docs/`](docs/) directory:
@@ -31,7 +31,7 @@ Full specifications and project proposals can be found in the [`docs/`](docs/) d
 ```text
 ├── cut.py                     # Slices raw WAV into 1.5s - 15s chunks at natural pauses
 ├── download.py                # Downloads audio/subtitles via yt-dlp & syncs with Google Sheets
-├── export_and_tag.py          # Exports annotations & auto-tags tokens ([km], [en], [mixed])
+├── export_and_tag.py          # Exports annotations & auto-tags tokens ([km], [en])
 ├── gsheet.py                  # Google Sheets tracking integration (gspread)
 ├── label_studio_config.xml    # Label Studio interface XML configuration
 ├── links.txt                  # List of target YouTube/TikTok URLs to process
@@ -130,7 +130,7 @@ Once annotation batches are complete:
    ```
 This produces:
 * `annotated_dataset.csv`: Clean tabular dataset.
-* `annotated_dataset.json`: Structured dataset with exact word-level tags (`[km]`, `[en]`, `[mixed]`, `[num]`, `[punct]`), code-switching boundaries, and quality flags.
+* `annotated_dataset.json`: Structured dataset with exact word-level tags (`[km]`, `[en]`, `[num]`, `[punct]`), code-switching boundaries, and quality flags.
 
 ---
 
