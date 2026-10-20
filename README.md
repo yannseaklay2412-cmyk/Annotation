@@ -119,7 +119,7 @@ This generates `tasks.json`, mapping audio URLs (`http://localhost:8001/chunks/.
 2. Create a new project.
 3. In **Settings -> Labeling Interface -> Code**, paste the XML from [`label_studio_config.xml`](label_studio_config.xml).
 4. In **Data Import**, upload `tasks.json`.
-5. Listen to audio, drag waveform regions to label Khmer vs. English segments, correct the verbatim text, and assign quality flags.
+5. Listen to audio, drag waveform regions to label Khmer vs. English segments (or unintelligible audio), and correct the verbatim text. (Language combination and domain are automatically tracked by the pipeline).
 
 ### Step 6: Export & Tag Code-Switching Tokens
 Once annotation batches are complete:

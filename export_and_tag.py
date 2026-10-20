@@ -153,6 +153,28 @@ def parse_annotation_item(item: Dict[str, Any]) -> Dict[str, Any]:
     tagged_text, token_list = tag_sentence(transcript)
     has_cs = any(t["tag"] == "en" for t in token_list) and any(t["tag"] == "km" for t in token_list)
 
+    # Automatically derive language combination if not manually selected
+    if not language_combo or language_combo == "Khmer-English":
+        if has_cs:
+            language_combo = "Khmer-English"
+        elif any(t["tag"] == "km" for t in token_list):
+            language_combo = "Monolingual Khmer"
+        elif any(t["tag"] == "en" for t in token_list):
+            language_combo = "Monolingual English"
+        else:
+            language_combo = "Khmer-English"
+
+    # Automatically derive quality flags from marked regions if not manually selected
+    has_unintelligible_region = any(
+        "unintelligible" in b.get("label", "").lower() or "noise" in b.get("label", "").lower()
+        for b in cs_boundaries
+    )
+    if not quality_flags:
+        if has_unintelligible_region:
+            quality_flags = ["Unintelligible / Noise"]
+        else:
+            quality_flags = ["Clear Speech"]
+
     return {
         "chunk_id": chunk_id,
         "video_id": video_id,
