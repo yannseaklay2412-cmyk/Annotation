@@ -41,8 +41,8 @@ Full specifications and project proposals can be found in the [`docs/`](docs/) d
 ├── tasks.json                 # Formatted tasks ready for Label Studio import
 ├── chunks_metadata.csv        # Metadata for generated chunks (timestamps, duration, text)
 ├── suspicious_chunks.csv      # Quality control report of edge-case chunks
-├── annotated_dataset.csv      # Exported human-annotated dataset (CSV)
-├── annotated_dataset.json     # Exported human-annotated dataset with token breakdowns (JSON)
+├── annotated_dataset.csv      # (Generated locally) Exported human-annotated dataset (CSV)
+├── annotated_dataset.json     # (Generated locally) Exported dataset with token breakdowns (JSON)
 ├── chunks/                    # Directory of sliced 16kHz mono WAV audio clips
 ├── raw/                       # Raw downloads and timed subtitles (.vtt / .json3)
 ├── docs/                      # Capstone proposals and master specification documents

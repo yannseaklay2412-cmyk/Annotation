@@ -26,6 +26,9 @@ env/
 Thumbs.db
 desktop.ini
 
-# Temporary data / exports
+# Annotation results & exports (kept local, do not push)
+annotated_dataset.csv
+annotated_dataset.json
+annotated_dataset*
 export.json
 scratch/
