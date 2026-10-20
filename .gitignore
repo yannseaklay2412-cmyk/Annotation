@@ -1,0 +1,31 @@
+# Secrets and credentials (NEVER commit these!)
+service_account.json
+*.key
+*.pem
+.env
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary data / exports
+export.json
+scratch/

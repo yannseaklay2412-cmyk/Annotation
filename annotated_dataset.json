@@ -1,0 +1,50 @@
+[
+  {
+    "chunk_id": "t_Sp8-9L9yQ_0001",
+    "video_id": "",
+    "platform": "YouTube",
+    "domain": "Education",
+    "source_url": "https://youtu.be/t_Sp8-9L9yQ",
+    "duration_sec": 3.92,
+    "raw_transcript": "after school program អីចឹងទៅប៉ុន្តែចុះឡើងៗ",
+    "tagged_transcript": "after [en] school [en] program [en] អីចឹងទៅប៉ុន្តែចុះឡើងៗ [km]",
+    "token_count": 4,
+    "tokens": [
+      {
+        "word": "after",
+        "tag": "en"
+      },
+      {
+        "word": "school",
+        "tag": "en"
+      },
+      {
+        "word": "program",
+        "tag": "en"
+      },
+      {
+        "word": "អីចឹងទៅប៉ុន្តែចុះឡើងៗ",
+        "tag": "km"
+      }
+    ],
+    "language_combo": "Khmer-English",
+    "has_code_switching": "yes",
+    "cs_boundaries": [
+      {
+        "label": "English [en]",
+        "start_sec": 0.005,
+        "end_sec": 1.503,
+        "duration_sec": 1.498
+      },
+      {
+        "label": "Khmer [km]",
+        "start_sec": 1.499,
+        "end_sec": 3.916,
+        "duration_sec": 2.417
+      }
+    ],
+    "quality_flags": "Clear Speech",
+    "is_uncertain": "no",
+    "is_unintelligible": "no"
+  }
+]

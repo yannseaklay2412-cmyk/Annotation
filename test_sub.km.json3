@@ -1,0 +1,3381 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 1133872,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 18920,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "បាទជម្រាបសួរអឺក្មួយៗប្អូនៗបងៗលោកគ្រូអ្នកគ្រូទាំងអស់ថ្ងៃនេះបាទអឺសារប្រជុំច្រើនពិតជាច្រើនបាទអឺថ្ងៃនេះខ្ញុំនិយាយ",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 29509,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 29519,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "និយាយអំពីវិស័យអប់រំនៅស្រុកខ្មែរយើងវិសារអប់រំនៅស្រុកខ្មែរយើងឃើញហើយក្នុងរយៈពេល",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 34549,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 34559,
+    "dDurationMs": 3721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "40",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 35270,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 35280,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ឆ្នាំហើយយើងបង្រៀនតាមបុរាណមានន័យថាយើងបង្រៀនភាគច្រើនមួយព្រឹកហើយមកជាដែលរដ្ឋដាក់ឲ្យមកការបង្រៀននេះយើងមានការអភិវឌ្ឍនពារឹងម្ដងតិចៗតទិចហើយរហូតដល់បច្ចុប្បន្នភាព",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 48910,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 48920,
+    "dDurationMs": 3240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "10",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 49150,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 49160,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ឆ្នាំមុនមកមុននេះយើងបន្ថែមកម្មវិធីច្រើនតែក្នុងហ្នឹងមានជីលមានរបស់មានគេហៅថា",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 56950,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 56960,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coding",
+      "acAsrConf": 0
+    }, {
+      "utf8": " មានអឺអឺ",
+      "tOffsetMs": 840,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 59630,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 59640,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "អករកម្មអឺអករកម្មគេហៅថាផណុលមានច្រើនហើយក៏យើងពរឹងគេហៅថាគ្រូកុសលគ្រូទន្ទឹមនៅហ្នឹងផងដែរក៏យើងមានការបន្ថែមម៉ោងអ្នកខ្លះទៅកម្មវិធី",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 76670,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 76680,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "after",
+      "acAsrConf": 0
+    }, {
+      "utf8": " school",
+      "tOffsetMs": 960,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 77990,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 78000,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ប្រ្រាមអញ្ចឹងទៅប៉ុន្តែចុះឡើងៗឡើងយើងនៅតែមានគេហៅថាការកែប្រែច្រើនក្នុងរយៈពេល",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 84630,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 84640,
+    "dDurationMs": 3159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "10",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 84789,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 84799,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ឆ្នាំដែលថារារដ្ឋាភិបាលហ្នឹងគាត់កំពុងតែរកវិធីសាស្ត្រម៉េច",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 88870,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 88880,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ដើម្បីពង្រឹងដើម្បីឲ្យសាលាយើងទំនើបនិយមជាស្តង់ដារជាគំ្រូអញ្ចឹងមានសាលាច្រើនដែលមានទំនាក់ទំនងសហការជាមួយរាជរដ្ឋាភិបាលយើងចេញជា",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 100230,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 100240,
+    "dDurationMs": 4199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "new",
+      "acAsrConf": 0
+    }, {
+      "utf8": " generation",
+      "tOffsetMs": 239,
+      "acAsrConf": 0
+    }, {
+      "utf8": " ប៉ុន្តែហាក់បីថា",
+      "tOffsetMs": 1519,
+      "acAsrConf": 0
+    }, {
+      "utf8": " new",
+      "tOffsetMs": 2559,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 103910,
+    "dDurationMs": 529,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 103920,
+    "dDurationMs": 3519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generation",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 104429,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 104439,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ហ្នឹងគឺអត់សូវដើរតាមខ្ញុំដឹងអញ្ចឹងអាណត្តិនេះឆ្នាំ",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 109789,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 109799,
+    "dDurationMs": 3521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "2024",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 110310,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 110320,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "នេះយើងឃើញថារារដ្ឋាភិបាលមានការអឺពង្រឹងថែមទៀតហើយក៏សហការនៅសាលាផ្សេង",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 117990,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 118000,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ផ្សេងៗដូចគេហៅថាសាលាទំនើបសាលាអឺឌីជីទលសាលាសមធម៌ដែលតម្រូវការឲ្យម៉ែអឪបង់អញ្ចឹងណាបាទប៉ុន្តែមុននឹងទៅបន្តិចទៀតខ្ញុំចង់បញ្ជាក់ថានៅស្រុកខ្មែរយើងមានសាលាច្រើនព្រះភូមិមានក្រោមមទ័យមសិក្សាមទ័យមសិក្សាហ្នឹងមួយភូមិទៅមានបឋម្មសិក្សាមានអនុវិទ្យាល័យមានវិទ្យាល័យទាំងអស់ហ្នឹងយើងឃើញថាអឺមានសិស្សរៀនក៏ប៉ុន្តែក៏",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 147630,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 147640,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ក៏មានសិលទ្រព្យច្រើនហើយជាពិសេសនៅតាមជនបទទ្រព្យដោយសារអការរៀនហ្នឹងគឺយើងដឹងហើយក្នុងរយៈពេល",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 155350,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 155360,
+    "dDurationMs": 3640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "10",
+      "acAsrConf": 0
+    }, {
+      "utf8": " ឆ្នាំមុនសិស្សរៀនចំណាយពេល",
+      "tOffsetMs": 200,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 157550,
+    "dDurationMs": 1450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 157560,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "15",
+      "acAsrConf": 0
+    }, {
+      "utf8": " ឆ្នាំអត់",
+      "tOffsetMs": 440,
+      "acAsrConf": 0
+    }, {
+      "utf8": " 15",
+      "tOffsetMs": 1080,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 158990,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 159000,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ឆ្នាំមធ្យមភាគតាំងពីក្រោមមទិញសិក្សារហូតដល់ទី",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 162110,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 162120,
+    "dDurationMs": 3839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "12",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 162949,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 162959,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "គឺចំណាយពេលច្រើនដែរក៏ប៉ុន្តែចុងក្រោយពេលប្រលងគ្នាធ្លាក់ឆ្នាំដំបូងធ្លាក់",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 168350,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 168360,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "40",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 170309,
+    "dDurationMs": 2891,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 170319,
+    "dDurationMs": 4121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "44%",
+      "acAsrConf": 0
+    }, {
+      "utf8": " ជាប់អញ្ចឹងវាចូលចិត្តអឺ",
+      "tOffsetMs": 801,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 173190,
+    "dDurationMs": 1250,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 173200,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "60%",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 174430,
+    "dDurationMs": 2770,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 174440,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ធ្លាក់អញ្ចឹងវាធ្វើឲ្យបាក់ទឹកចិត្តក្មេងអ្ចឹង",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 177190,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 177200,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "អចឹងក្មេងដល់ពេលចំណាយបាទជវុត់របស់គ្នាធ្លាក់ទៅគ្នាបាក់ទឹកចិត្តហើយប្រជាជនខ្មែរយើងឆាប់ខ្មាស់គេណាស់អញ្ចឹងហាក់បីដូចយើងហៅពួកគាត់ហ្នឹងគឺក្មេងដែលរៀនមិនពូកែល្ងង់អញ្ចឹងធ្វើឲ្យក្មេងភាគច្រើនគឺគាត់ដឹងគាត់ឈប់រៀនគាត់ឈប់រៀនអញ្ចឹងគ្រាន់តែឮដល់ថ្នាក់ទី",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 195589,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 195599,
+    "dDurationMs": 3280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "12",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 195869,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 195879,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "គាត់ឈប់ពីឥឡូវបាត់ហើយអញ្ចឹងគាត់អត់បានរៀនបន្តអញ្ចឹងមានក្មួយមានប្អូនយើងឈប់រៀនដល់ពេលអញ្ចឹងមានត្របអាវេកហ្នឹងវាខ្ពស់របអាវេខ្ពស់មិនមែនមិនត្រឹមតែមកពីប៉ុណ្ណឹងទេអាហ្នឹងកតាមួយទូចទេ",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 206869,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 206879,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ទេតៅកតាធំគឺអឺក្មេងរៀនអត់ចូលគ្មានរៀនអត់ចេះគ្មានរៀនក្មេងរៀនទៅគឺថាអត់យល់ក្មេងរៀនទៅគឺថាបាក់ទឹកចិត្តមានកត្តាច្រើនកត្តាទីមួយគឺយើងអត់សូវមានគេហៅថាវិន័យត្រឹមត្រូវវិន័យគឺថាមិនមែនវិន័យសេសវិន័យគ្រូដែលគ្រូមកទាងទាត់គ្រូអត់មកបង្រៀនគ្រូមកបង្រៀនលក់របស់របរគ្រូមកបង្រៀនទៅគឺអបសិនអីអញ្ចឹងទៅអាហ្នឹងមួយទីពីរ",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 236470,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 236480,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ពីរអត់មានសីលធម៌អញ្ចឹងការទឹងម",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 240309,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 240319,
+    "dDurationMs": 3640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "morality",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 240949,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 240959,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ហ្នឹងគឺទាបអញ្ចឹងធ្វើឲ្យក្មេងបាត់មានការវិន័យមានការគោរពសីលធម៌ច្បាស់លាសអញ្ចឹងទៅអញ្ចឹងធ្វើឲ្យមានបងធំបង់តូចមានច្រើនហើយក្មេងទន់ខ្សោយគាត់អត់ហ៊ានរៀនហើយមួយទៀតគឺទាក់ទងអំពីគេហៅថាអតគា",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 257949,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 257959,
+    "dDurationMs": 3641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "activity",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 258590,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 258600,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "សកម្មភាពក្រៅថ្នាក់ដែលធ្វើឲ្យក្មេងសប្បាយមានកីឡាមានអីចឹងទៅគ្នារៀនទៅសប្បាយហើយមាន",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 265830,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 265840,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "មានសហគមន៍ចូលរួមមានអីអញ្ចឹងទៅហើយក៏យើងអត់សូវមានផងដែរការគេហៅ",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 271790,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 271800,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "PTA",
+      "acAsrConf": 0
+    }, {
+      "utf8": " Parent",
+      "tOffsetMs": 1040,
+      "acAsrConf": 0
+    }, {
+      "utf8": " teacher",
+      "tOffsetMs": 1560,
+      "acAsrConf": 0
+    }, {
+      "utf8": " Association",
+      "tOffsetMs": 2640,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 275629,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 275639,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ដែលហៅឪពុកមែមកចូលរួមពន្យល់សិស្សដើម្បីឲ្យយល់ថាតើកូនហ្នឹងរៀនយ៉ាងម៉េចម៉ែឪត្រូវធ្វើម៉េចតាមដាននេះជារបស់ដែលយើងខ្វះខ្វះមិនត្រឹមខ្វះប៉ុណ្ណឹងទេយើងខ្វះអាហារបំពនឲ្យសិស្សដើម្បីឲ្យគ្នាញ៉ាំទៅដើម្បីមានកម្លាំងហើយមានថាមពលដើម្បីរៀនរៀនចូលរៀនចេះហើយមករៀនអត់ឃ្លាន",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 295830,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 295840,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ប៉ុន្តែយើងឃើញសិស្សភាគច្រើនគាត់មានបញ្ហាឃ្លានហើយរៀនអត់ចូលនេះជាបញ្ហារូបថនៃអាហារប៉ុន្តែមិនប៉ុណ្ណឹងទេយើងឃើញថាយើងខ្វះគ្រុកកុសលនៃការបង្រៀនអញ្ចឹងទាក់ទង",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 310749,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 310759,
+    "dDurationMs": 4681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "peg",
+      "acAsrConf": 0
+    }, {
+      "utf8": " pogy",
+      "tOffsetMs": 1121,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 312430,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 312440,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "របស់គ្រូយើងឃើញថាមួយឆ្នាំទៅមួយឆ្នាំយើងខ្វះគ្រូរហូតប៉ុន្តែការបង្រៀនគឺយើងអត់មានយើងគ្រូដាក់តំបង់ទៅច្រើនប៉ុន្តែការជាប់តិចអញ្ចឹងយើងអត់ដឹងគោលដៅថាមកពី",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 324870,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 324880,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ពាក្យអីបានយើងមិនបន្ថែមគ្រូកុសលរបស់គ្រូហើយគ្រូប្រកួតប្រជែងជាមួយនឹងសាលាឯកជនហើយឯកជនក៏ជាសាលាដែលបង្រៀនសិស្សរបស់រដ្ឋផងដែរគ្រាន់តែថាមួយបង់លុយមួយមិនបង់លុយហើយគេបង់លុយពីព្រោះគេមានអារម្មណ៍ភាពកក់ក្តៅអញ្ចឹងការបង់លុយនេះដែលជាការប្រកួតប្រជែកមួយដែលយើងអាចនិយាយថាប្រកួត័យរបស់រាជរដ្ឋាភិបាលប៉ុន្តែបើយើងនិយាយមែនទែនគឺជាដៃគូសហការជំរុញវិស័យអប់រំឲ្យមានទំនើបនិយមហើយ",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 354110,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 354120,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ហើយដល់ពេលវាមានបញ្ហាច្រើននળរដ្ឋាភិបាលគាត់រកវិធីសាស្ត្រច្រើនដើម្បីពង្រឹងដើម្បីបង្កើតឲ្យស្តង់ដាមួយជាគំរូប៉ុន្តែចំពោះខ្ញុំខ្ញុំគិតថាយើងអត់បានចាំធ្វើអីទេអ្វីយើងមានល្អអស្ចារ្យហើយអ្វីយើងក្រើធ្វើបរឹងអ្វីនិយាយមិញប៉ុន្តែប៉ុណ្ណឹងទេយើងពឹងថែមសេមឲ្យខ្លាំងបាទរឹងថែមសេមឲ្យខ្លាំងតែយើងធ្វើកើតទេើអត់កើតទេបើយើងអត់ពរឹងម៉ោងអញ្ចឹងយើងព្រឹងម៉ោងការសិក្សារបស់សិស្សយើង",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 383390,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 383400,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "យើងអញ្ចឹងពឹងម៉ោងសិក្សាបសឹងសបើពឹងសេមកាលយើងរៀនទាន់ទេអត់ទាន់ទៀតពីព្រោះពេលសិស្សភាគច្រើនចេញមកពីជនបទហើយពេលគាត់ចេញពីជនបទគាត់មករៀននៅសាលានៅទីក្រុងភ្នំពេញសាកលវិទ្យាល័យវាច្រើនភាសាអង់គ្លេសអញ្ចឹងយើងទៅបរឹង",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 400870,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 400880,
+    "dDurationMs": 3680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ESL",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 401550,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 401560,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ប្រាមប៉ុន្តែឥឡូវនេះដោយសារវាចំបូកច្រោបល់ច្រើនសាលាឯកជនក្តីចាប់ផ្ដើមបឹងចិនផងខodឌing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 410029,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 410039,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ផងកុំពer",
+      "acAsrConf": 0
+    }, {
+      "utf8": " ផងនេះផងនោះផងវាធ្វើឲ្យ",
+      "tOffsetMs": 1321,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 412790,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 412800,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "រញេរញៃមែនទែនធ្វើឲ្យសាលាមិនដឹងថាស្អីគេពិតប្រគាត់ត្រូវការប៉ុន្តែអ្វីត្រូវការមែនទែនឹងគឺ",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 419270,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 419280,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "strពer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 421430,
+    "dDurationMs": 4810,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 421440,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "str",
+      "acAsrConf": 0
+    }, {
+      "utf8": " esl",
+      "tOffsetMs": 479,
+      "acAsrConf": 0
+    }, {
+      "utf8": " programាម",
+      "tOffsetMs": 960,
+      "acAsrConf": 0
+    }, {
+      "utf8": " strong",
+      "tOffsetMs": 1879,
+      "acAsrConf": 0
+    }, {
+      "utf8": " moral",
+      "tOffsetMs": 2360,
+      "acAsrConf": 0
+    }, {
+      "utf8": " str",
+      "tOffsetMs": 3240,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 426230,
+    "dDurationMs": 3130,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 426240,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ដែលថា",
+      "acAsrConf": 0
+    }, {
+      "utf8": " teacher",
+      "tOffsetMs": 519,
+      "acAsrConf": 0
+    }, {
+      "utf8": " plan",
+      "tOffsetMs": 1359,
+      "acAsrConf": 0
+    }, {
+      "utf8": " conferent",
+      "tOffsetMs": 1720,
+      "acAsrConf": 0
+    }, {
+      "utf8": " ហ្នឹងហើយ",
+      "tOffsetMs": 2200,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 429350,
+    "dDurationMs": 2689,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 429360,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "strរកុសលហើយ",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 432029,
+    "dDurationMs": 1251,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 432039,
+    "dDurationMs": 4241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "strine",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 433270,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 433280,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "វិន័យទាំងអស់ហ្នឹងដែលយើងត្រូវការខ្លាំងហើយមិនត្រឹមប៉ុណ្ណឹងទេ",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 438629,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 438639,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "strong",
+      "acAsrConf": 0
+    }, {
+      "utf8": " extrra",
+      "tOffsetMs": 960,
+      "acAsrConf": 0
+    }, {
+      "utf8": " crា",
+      "tOffsetMs": 1400,
+      "acAsrConf": 0
+    }, {
+      "utf8": " activity",
+      "tOffsetMs": 1921,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 441749,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 441759,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ហើយមិនត្រឹមតែបប៉ុណ្ណឹងទេយើងត្រូវមានបណាល័យជាចំណុចសំខាន់បំផុតដើម្បីឲ្យសិស្សរៀនហើយមានការស្រាវជ្រាវការស្រាវជ្រាវរៀនក៏អត់ចេះដែរមិនអាចប្រកេងជាមួយសាលាឲ្យខ្ញុំបានទេបើយើងអត់មាន",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 458110,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 458120,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "laboratory",
+      "acAsrConf": 0
+    }, {
+      "utf8": " research",
+      "tOffsetMs": 1000,
+      "acAsrConf": 0
+    }, {
+      "utf8": " ដែលបច្ចុប្បន្នគេមាន",
+      "tOffsetMs": 1799,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 461070,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 461080,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "microសដែលមើលរសាលាជីវគីមីហើយនិងសាលាអវិជ្ជាអញ្ចឹង",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 471029,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 471039,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "អញ្ចឹងគីមីរូបវិជកអឺវិជ្ជាជីវៈជីវសុំទោសទឹុទ្ធតែសតេមហើយនិងគនិតវិជ្ជាដែលត្រូវការបំផុតអញ្ចឹងបើយើងពារឹងតែសមហើយបន្ថែមម៉ោហើយម៉ាលរបស់សិស្សហើយព្រឹងវិន័យរបស់គ្រូហើយព្រឹងគ្រូកុសលវាគឺជាមហាសារតែគ្រប់ទេមិនគ្រប់ទេតើយើងត្រូវធ្វើម៉េចទៀតសាលាមិនអាច",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 500390,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 500400,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "អាចបណ្ដុះសិស្សទេបើយើងអត់មាន",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 502950,
+    "dDurationMs": 2809,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 502960,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "counសelling",
+      "acAsrConf": 0
+    }, {
+      "utf8": " តើ",
+      "tOffsetMs": 1440,
+      "acAsrConf": 0
+    }, {
+      "utf8": " counselling",
+      "tOffsetMs": 1679,
+      "acAsrConf": 0
+    }, {
+      "utf8": " counselling",
+      "tOffsetMs": 2359,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 505749,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 505759,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "អីគេនៅក្នុងវិទ្យាល័យចុះគេត្រូវការបី",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 511149,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 511159,
+    "dDurationMs": 4721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "counសelling",
+      "acAsrConf": 0
+    }, {
+      "utf8": " counសelling",
+      "tOffsetMs": 1041,
+      "acAsrConf": 0
+    }, {
+      "utf8": " ទី",
+      "tOffsetMs": 1601,
+      "acAsrConf": 0
+    }, {
+      "utf8": " 1",
+      "tOffsetMs": 1800,
+      "acAsrConf": 0
+    }, {
+      "utf8": " គឺ",
+      "tOffsetMs": 2521,
+      "acAsrConf": 0
+    }, {
+      "utf8": " academic",
+      "tOffsetMs": 3081,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 514709,
+    "dDurationMs": 1171,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 514719,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "counselling",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 515870,
+    "dDurationMs": 2969,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 515880,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "យើងមិនអាចបង្រៀនសិស្សបានទេបើយើងអត់មាន",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 518829,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 518839,
+    "dDurationMs": 3801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "academic",
+      "acAsrConf": 0
+    }, {
+      "utf8": " counselling",
+      "tOffsetMs": 440,
+      "acAsrConf": 0
+    }, {
+      "utf8": " សាលាឯកជនគេមាន",
+      "tOffsetMs": 1601,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 521829,
+    "dDurationMs": 811,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 521839,
+    "dDurationMs": 3801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "counselling",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 522630,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 522640,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ប្រឹក្សានិងការសិក្សារបស់សិស្សពេលសិស្សធ្លាក់ពេលសិស្សរៀនអន់ពេលសិស្សរៀនអត់ពូកែគេមានប",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 529230,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 529240,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "បពនបំពាន",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 530550,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 530560,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "toីងដែលអត់គិតលុយហើយគ្រូបង្រៀនដែលបង្រៀនយកអារៀនបំពន្នឹងមកបង្រៀនក្នុងថ្នាក់ហើយបើយើងបង្រៀនបំពនយកលុយវាទៅជាវប្បធម៌មួយដែលធ្វើឲ្យគ្រូមិនបង្រៀនយកចិត្តទុកដាក់ទៅបង្រៀនប្រព័ន្ធក្រៅថ្នាក់ធ្វើឲ្យសិស្សអ្នកមានគឺបែងចែកនឹងសិស្សន្រដែលបច្ចុប្បន្ននេះយើងមានសាលាទំនើបសាលាគំរូសាលាសមធម៌សាលាឌីជីតលដែលយើងកំពុងតែគេហៅថាបក្ស",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 558910,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 558920,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ដាក់ពួកនៅក្នុងសាលាគេអាចមានយកលុយហើយបើចុះនៅសាលាហ្នឹងអត់មានលុយធ្វើម៉េចទៅមានសាលាមួយគេហៅសាលាសមធម៌ដែលអាចយកទៅតាមលទ្ធភាពប៉ុន្តែនៅតែយកអញ្ចឹងវាធ្វើឲ្យមានការរើសអាមក្នុងសាលារដ្ឋដូច្នេះហើយខ្ញុំអត់មានជំនឿទៅលើសាលាគ្រប់ប្រភេទដែលអនុញ្ញាតឲ្យមានធ្វើឲ្យមានប៉ះតកិច្ចទៅដល់សិស្សដែលមានបញ្ហា",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 588350,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 588360,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "មហារញ្ញវត្ថុក្រុមគ្រួសារតែមានបញ្ហាអារញ្ញវត្ថុដូច្នេះហើយយើងអត់ចាំបាច់ពរឹងអីទេបន្ថែមពីលើអ្វីខ្ញុំនិយាយមិញគឺយើងត្រូវការបន្ថែម",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 598350,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 598360,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "counselling",
+      "acAsrConf": 0
+    }, {
+      "utf8": " ទីម",
+      "tOffsetMs": 800,
+      "acAsrConf": 0
+    }, {
+      "utf8": " academic",
+      "tOffsetMs": 1280,
+      "acAsrConf": 0
+    }, {
+      "utf8": " ទី",
+      "tOffsetMs": 2680,
+      "acAsrConf": 0
+    }, {
+      "utf8": " 2",
+      "tOffsetMs": 2919,
+      "acAsrConf": 0
+    }, {
+      "utf8": " health",
+      "tOffsetMs": 3680,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 602470,
+    "dDurationMs": 1330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 602480,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "counselling",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 603790,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 603800,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ប្រឹក្សាសុខមភាពតើមានសាលាប៉ុនមាណដែលមាន",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 607829,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 607839,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "health",
+      "acAsrConf": 0
+    }, {
+      "utf8": " counselling",
+      "tOffsetMs": 440,
+      "acAsrConf": 0
+    }, {
+      "utf8": " stood",
+      "tOffsetMs": 1240,
+      "acAsrConf": 0
+    }, {
+      "utf8": " health",
+      "tOffsetMs": 1601,
+      "acAsrConf": 0
+    }, {
+      "utf8": " center",
+      "tOffsetMs": 1881,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 610069,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 610079,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "វាចរសុខភាពបាទអញ្ចឹងសាលាឯកជនមួយចំនួនគេមានសាលារដ្ឋខ្លះមានតែសាលារដ្ឋច្រើនអត់ទាន់មាន",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 617630,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 617640,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "មានបន្ទាប់មកទៀតគឺគេតែងតែមានចាំបាច់ទូតែមានដើម្បីកុំឲ្យធ្វើសិស្សយើងង្វេងរាល់ថ្ងៃសិស្សយើងកំពុងវង្វេងពេលរៀនចបហig",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 627389,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 627399,
+    "dDurationMs": 3921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "school",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 628389,
+    "dDurationMs": 2931,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 628399,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "វិទ្យាល័យតើត្រូវការសិក្សាអីអញ្ចឹងគេមាន",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 631310,
+    "dDurationMs": 3330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 631320,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "college",
+      "acAsrConf": 0
+    }, {
+      "utf8": " counselling",
+      "tOffsetMs": 759,
+      "acAsrConf": 0
+    }, {
+      "utf8": " college",
+      "tOffsetMs": 2079,
+      "acAsrConf": 0
+    }, {
+      "utf8": " counselling",
+      "tOffsetMs": 2680,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 634630,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 634640,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "គឺដើម្បីប្រឹក្សាសិស្សសិស្សគួរតែរើសជម្រើសអីមុខជំនាញអីហើយរៀននៅសាលាណាហើយតម្លៃអីដែលឲ្យទៀងផ្ទាត់ស៊ីជាមួយនឹង",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 646790,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 646800,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "និងអលទ្ធភាពរបស់គាត់ចំណងចិត្តរបស់គាត់ហើយសាលាដែលគាត់គិតថាគាត់ទៅរួចចុះខoសelling",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 654590,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 654600,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "មួយទៀតទី",
+      "acAsrConf": 0
+    }, {
+      "utf8": " 4ខoសelling",
+      "tOffsetMs": 640,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 656670,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 656680,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "គេអាហ្នឹងងាប់រស់សំខាន់ដែលគេប្រើលេខ",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 660269,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 660279,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "1",
+      "acAsrConf": 0
+    }, {
+      "utf8": " លេខ",
+      "tOffsetMs": 161,
+      "acAsrConf": 0
+    }, {
+      "utf8": " 2",
+      "tOffsetMs": 360,
+      "acAsrConf": 0
+    }, {
+      "utf8": " លេខ",
+      "tOffsetMs": 521,
+      "acAsrConf": 0
+    }, {
+      "utf8": " 3",
+      "tOffsetMs": 761,
+      "acAsrConf": 0
+    }, {
+      "utf8": " academic",
+      "tOffsetMs": 1521,
+      "acAsrConf": 0
+    }, {
+      "utf8": " health",
+      "tOffsetMs": 2680,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 663190,
+    "dDurationMs": 2449,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 663200,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "counselling",
+      "acAsrConf": 0
+    }, {
+      "utf8": " academic",
+      "tOffsetMs": 1480,
+      "acAsrConf": 0
+    }, {
+      "utf8": " counselling",
+      "tOffsetMs": 1840,
+      "acAsrConf": 0
+    }, {
+      "utf8": " health",
+      "tOffsetMs": 2319,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 665629,
+    "dDurationMs": 4051,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 665639,
+    "dDurationMs": 4041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "counselling",
+      "acAsrConf": 0
+    }, {
+      "utf8": " ហើយនិងអឺអមាន",
+      "tOffsetMs": 1041,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 672590,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 672600,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "academic",
+      "acAsrConf": 0
+    }, {
+      "utf8": " counselling",
+      "tOffsetMs": 400,
+      "acAsrConf": 0
+    }, {
+      "utf8": " មាន",
+      "tOffsetMs": 1479,
+      "acAsrConf": 0
+    }, {
+      "utf8": " health",
+      "tOffsetMs": 1799,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 674629,
+    "dDurationMs": 1851,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 674639,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "counselling",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 676470,
+    "dDurationMs": 4250,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 676480,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "មានអឺ",
+      "acAsrConf": 0
+    }, {
+      "utf8": " career",
+      "tOffsetMs": 1440,
+      "acAsrConf": 0
+    }, {
+      "utf8": " counselling",
+      "tOffsetMs": 1919,
+      "acAsrConf": 0
+    }, {
+      "utf8": " បាទចុងក្រោយគឺ",
+      "tOffsetMs": 3240,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 680710,
+    "dDurationMs": 1450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 680720,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "care",
+      "acAsrConf": 0
+    }, {
+      "utf8": " counselling",
+      "tOffsetMs": 320,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 682150,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 682160,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "មានន័យថារកការងារឲ្យគ្នាធ្វើចុះបើរៀនចប់គ្នាដាក់ការងារម៉េចសម្ភាសម៉េចហើយត្រូវធ្វើយ៉ាងម៉េចដើម្បីឲ្យមានការងារធ្វើទាំងអស់នេះធ្វើបង្រងទិសគ្នាហើយពេលគ្នារៀនចប់តើគួរទៅសាកលវិទ្យាល័យឬទៅសាលាវិជ្ជាជីវៈហើយសាលាវិជ្ជាជីវៈតើមានសាលាប៉ុន្មាននៅតំបន់ណា",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 705670,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 705680,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ណាបង្រៀនមុខជាអីហើយមុខជាអីដែលគេត្រូវការខ្លាំងជាងគេអញ្ចឹងយើងអត់មាន",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 712949,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 712959,
+    "dDurationMs": 4841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "counសelling",
+      "acAsrConf": 0
+    }, {
+      "utf8": " ទៅខាង",
+      "tOffsetMs": 641,
+      "acAsrConf": 0
+    }, {
+      "utf8": " care",
+      "tOffsetMs": 1120,
+      "acAsrConf": 0
+    }, {
+      "utf8": " college",
+      "tOffsetMs": 1521,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 715990,
+    "dDurationMs": 1810,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 716000,
+    "dDurationMs": 2120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ហើយនិង",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 717790,
+    "dDurationMs": 330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 717800,
+    "dDurationMs": 3320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "care",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 718110,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 718120,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "counសellingីអញ្ចឹងធ្វើឲ្យសិស្សគវង្វេងដល់ពេលគាត់វង្វេងរាល់ថ្ងៃនេះកូនសិស្សគាត់រៀនមួយថ្នាំពីរឆ្នាំគាត់បាត់បង់ឆ្នងរចិត្តគាត់ដូរអញ្ចឹងជួនការក៏អត់ធ្វើអញ្ចឹងទេក៏រៀនពីរមុខជំនាញពីមុខជំនាញគាត់",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 734870,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 734880,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exust",
+      "acAsrConf": 0
+    }, {
+      "utf8": " បិតអញ្ចឹងគាត់",
+      "tOffsetMs": 240,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 737629,
+    "dDurationMs": 1611,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 737639,
+    "dDurationMs": 4601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "up",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 739230,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 739240,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "អញ្ចឹងគាត់ត្រពៅសុទ្ធតែខុសៗអាខុសនេះហើយធ្វើឲ្យគាត់បាក់ទឹកចិត្តហើយបាក់ទឹកចិត្តឈប់រៀនអាខុសនេះហើយដែលធ្វើឲ្យគាត់រៀនទៅត្រពងពី",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 754189,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 754199,
+    "dDurationMs": 3401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "care",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 754590,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 754600,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ហ្នឹងហើយពេលគាត់ចូលរៀនគាត់សម្រេចបានហើយទៅសាកលវិទ្យាល័យគឺភាគច្រើនអ្នកធ្វើការ",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 762350,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 762360,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coler",
+      "acAsrConf": 0
+    }, {
+      "utf8": " អ្នកធ្វើការ",
+      "tOffsetMs": 1279,
+      "acAsrConf": 0
+    }, {
+      "utf8": " pink",
+      "tOffsetMs": 2159,
+      "acAsrConf": 0
+    }, {
+      "utf8": " Ping",
+      "tOffsetMs": 2279,
+      "acAsrConf": 0
+    }, {
+      "utf8": " color",
+      "tOffsetMs": 2520,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 766629,
+    "dDurationMs": 2291,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 766639,
+    "dDurationMs": 5161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "white",
+      "acAsrConf": 0
+    }, {
+      "utf8": " color",
+      "tOffsetMs": 200,
+      "acAsrConf": 0
+    }, {
+      "utf8": " pink",
+      "tOffsetMs": 921,
+      "acAsrConf": 0
+    }, {
+      "utf8": " color",
+      "tOffsetMs": 1161,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 768910,
+    "dDurationMs": 2890,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 768920,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "គឺអ្នកធ្វើការក្នុងប្រូអ្នកធ្វើការក្នុង",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 771790,
+    "dDurationMs": 3930,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 771800,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hotel",
+      "acAsrConf": 0
+    }, {
+      "utf8": " អ្នកធ្វើការក្នុង",
+      "tOffsetMs": 1120,
+      "acAsrConf": 0
+    }, {
+      "utf8": " hospitality",
+      "tOffsetMs": 2080,
+      "acAsrConf": 0
+    }, {
+      "utf8": " អស់",
+      "tOffsetMs": 3479,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 775710,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 775720,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hospីal",
+      "acAsrConf": 0
+    }, {
+      "utf8": " hospitality",
+      "tOffsetMs": 1239,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 778710,
+    "dDurationMs": 2170,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 778720,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ចំពោះអ្នកគឺអ្នកធ្វើការ",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 780870,
+    "dDurationMs": 2250,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 780880,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "blue",
+      "acAsrConf": 0
+    }, {
+      "utf8": " color",
+      "tOffsetMs": 360,
+      "acAsrConf": 0
+    }, {
+      "utf8": " blue",
+      "tOffsetMs": 1440,
+      "acAsrConf": 0
+    }, {
+      "utf8": " coler",
+      "tOffsetMs": 1720,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 783110,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 783120,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "អ្នកធ្វើការជំនាញកម្លាំងអ្នកធ្វើការយកស្គៀអញ្ចឹងវិជ្ជាជីវៈបែងចែកជាពីរទៀត",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 793790,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 793800,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ទៀតអា",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 796389,
+    "dDurationMs": 1651,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 796399,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tet",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 798030,
+    "dDurationMs": 4570,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 798040,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "គេ",
+      "acAsrConf": 0
+    }, {
+      "utf8": " technical",
+      "tOffsetMs": 520,
+      "acAsrConf": 0
+    }, {
+      "utf8": " training",
+      "tOffsetMs": 1159,
+      "acAsrConf": 0
+    }, {
+      "utf8": " មាន",
+      "tOffsetMs": 2520,
+      "acAsrConf": 0
+    }, {
+      "utf8": " vocational",
+      "tOffsetMs": 3840,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 802590,
+    "dDurationMs": 730,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 802600,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "training",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 803310,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 803320,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "តើពីហ្នឹងខុសគ្នាម៉េចយើងអត់ទាន់ដែលដឹងទេហើយខ្ញុំគិតថាប្រជាជនច្រើនក៏អត់ដឹងដែរទានករស្រីហ្នឹងរៀនឧទាហរណ៍ជួសជនឡានជួសជុលម៉ាស៊ីនត្រជាក់ធ្វើផ្លូវធ្វើសំណង់ប្រើកម្លាំងចុះ",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 817750,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 817760,
+    "dDurationMs": 5639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vocational",
+      "acAsrConf": 0
+    }, {
+      "utf8": " trេហ្នឹងស្អីគេវិញទៅ",
+      "tOffsetMs": 600,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 820389,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 820399,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vocationalលគឺរៀនពី",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 823389,
+    "dDurationMs": 1570,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 823399,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ធ្វើការក្នុងប្រូ",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 824949,
+    "dDurationMs": 3971,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 824959,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "paral",
+      "acAsrConf": 0
+    }, {
+      "utf8": " ជំនួយការ",
+      "tOffsetMs": 1201,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 828910,
+    "dDurationMs": 3929,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 828920,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Office",
+      "acAsrConf": 0
+    }, {
+      "utf8": " Assistant",
+      "tOffsetMs": 400,
+      "acAsrConf": 0
+    }, {
+      "utf8": " រដ្ឋបាលជំនួយរតា",
+      "tOffsetMs": 1359,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 832829,
+    "dDurationMs": 2771,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 832839,
+    "dDurationMs": 4321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hy",
+      "acAsrConf": 0
+    }, {
+      "utf8": " ជំនួយការពេទ្យធ្មេញ",
+      "tOffsetMs": 961,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 835590,
+    "dDurationMs": 1570,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 835600,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "medical",
+      "acAsrConf": 0
+    }, {
+      "utf8": " assistant",
+      "tOffsetMs": 560,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 837150,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 837160,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ធ្វើការប្រូជជួយដទ័រដែលរៀបចំគណមដទ័រទាំងអស់នេះគេហៅថា",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 844470,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 844480,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vocational",
+      "acAsrConf": 0
+    }, {
+      "utf8": " training",
+      "tOffsetMs": 719,
+      "acAsrConf": 0
+    }, {
+      "utf8": " ដែលមិនមែនជាទក",
+      "tOffsetMs": 2000,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 847870,
+    "dDurationMs": 1130,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 847880,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traេing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 848990,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 849000,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "អញ្ចឹងយើងហងហើយអត់ទាន់បែកចែកពីហ្នឹងឲ្យគ្នាដឹងទៀតហើយអាសាវេ",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 853350,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 853360,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tring",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 854550,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 854560,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ស្ទើរតែរកអត់មានដូច្នេះហើយយើងរាល់ថ្ងៃយើងយក",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 857710,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 857720,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bre",
+      "acAsrConf": 0
+    }, {
+      "utf8": " ដែលចេញពីសាលា",
+      "tOffsetMs": 720,
+      "acAsrConf": 0
+    }, {
+      "utf8": " University",
+      "tOffsetMs": 2200,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 861829,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 861839,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "យកមកធ្វើការអញ្ចឹងយើងខាតយើងខាតខ្លាំងណាស់ទាក់ទងធនធានាមនុស្សយើងទាំងអស់នេះជាបញ្ហាកត្តាដែលធ្វើឲ្យគាត់មានបញ្ហាអញ្ចឹងខ្ញុំនិយាយអំពីហេតុផលច្រើនដែលជំរុញឲ្យ",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 875990,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 876000,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traditional",
+      "acAsrConf": 0
+    }, {
+      "utf8": " school",
+      "tOffsetMs": 639,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 876870,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 876880,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "យើងដើរដោយមានលក្ខខណ្ឌដូចជាម្ហូប",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 880670,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 880680,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "extract",
+      "acAsrConf": 0
+    }, {
+      "utf8": " activity",
+      "tOffsetMs": 760,
+      "acAsrConf": 0
+    }, {
+      "utf8": " T",
+      "tOffsetMs": 1240,
+      "acAsrConf": 0
+    }, {
+      "utf8": " PTA",
+      "tOffsetMs": 2120,
+      "acAsrConf": 0
+    }, {
+      "utf8": " p",
+      "tOffsetMs": 2760,
+      "acAsrConf": 0
+    }, {
+      "utf8": " teacher",
+      "tOffsetMs": 3040,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 884069,
+    "dDurationMs": 3611,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 884079,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conference",
+      "acAsrConf": 0
+    }, {
+      "utf8": " discipline",
+      "tOffsetMs": 1200,
+      "acAsrConf": 0
+    }, {
+      "utf8": " របស់",
+      "tOffsetMs": 1801,
+      "acAsrConf": 0
+    }, {
+      "utf8": " s",
+      "tOffsetMs": 2161,
+      "acAsrConf": 0
+    }, {
+      "utf8": " moral",
+      "tOffsetMs": 2921,
+      "acAsrConf": 0
+    }, {
+      "utf8": " អ",
+      "tOffsetMs": 3401,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 887670,
+    "dDurationMs": 1729,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 887680,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "discipline",
+      "acAsrConf": 0
+    }, {
+      "utf8": " របស់គ្រូ",
+      "tOffsetMs": 399,
+      "acAsrConf": 0
+    }, {
+      "utf8": " Moral",
+      "tOffsetMs": 1360,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 889389,
+    "dDurationMs": 2411,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 889399,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "របស់សិស្សហើយនិង",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 891790,
+    "dDurationMs": 3250,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 891800,
+    "dDurationMs": 3240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "food",
+      "acAsrConf": 0
+    }, {
+      "utf8": " ស្រាប់ឲ្យសិស្ស័យឲ្យសិស្សប្រើ",
+      "tOffsetMs": 240,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 896269,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 896279,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "laoryរarch",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 898629,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 898639,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ហើយនិងទាក់ទងនឹងអ្វីផ្សេងៗក៏ប៉ុន្តែមានអីទៀតមានទៀតបាទតើក្នុងហ្នឹងដូចជា",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 906829,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 906839,
+    "dDurationMs": 3521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "counសelling",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 907350,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 907360,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ជាដើមចុះបើគាត់រៀនចំហើយគ្មានទាំងអស់ហ្នឹង",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 911389,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 911399,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ហ្នឹងតើជំរុញបានទេជំរុញខ្លាំងណាស់តែយើងត្រូវកែតែហសតែម្ដងទេដើម្បីអង្គុយរមន្តផ្សេងចុះផ្សេងឡើងដូចយើងចំណាយពេល",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 922150,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 922160,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "10",
+      "acAsrConf": 0
+    }, {
+      "utf8": " ឆ្នាំធ្វើ",
+      "tOffsetMs": 160,
+      "acAsrConf": 0
+    }, {
+      "utf8": " new",
+      "tOffsetMs": 1320,
+      "acAsrConf": 0
+    }, {
+      "utf8": " generation",
+      "tOffsetMs": 1560,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 924470,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 924480,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ដែលអត់ដើរឥឡូវយើងកំពុងចំណាយពេលសិក្សារូបមន្តថ្មីតង់ដាគំ្រូដែលក្នុងហ្នឹងមានសាលាសមធម៌បង់លុយសាលាមដឺនបង់លុយហើយនិងសាលាឌីជីទលបង់លុយយើងអត់បាច់ចាំទេ",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 940990,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 941000,
+    "dDurationMs": 2839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ទេយើងគ្រាន់តែធ្វើសាលា",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 943350,
+    "dDurationMs": 489,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 943360,
+    "dDurationMs": 3479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traditional",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 943829,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 943839,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "របស់យើងពង្រឹងអ្វីដែលយើងត្រូវការពង្រឹងម្ដងតិចម្ដងមួយៗតាមលទ្ធភាពដែលយើងមានហើយទាំងអស់ហ្នឹងអាច",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 954710,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 954720,
+    "dDurationMs": 3440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apply",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 955150,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 955160,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "បាននូវសាលាតាមជនបទដែលរាប់ម៉ឺនសាលារាប់លានសិស្សអត់បាច់ចាំធ្វើសម្រាប់បំពេញតែតំ្រូវការនៅទីក្រុងទេណាសបាទហើយដល់ពេលយើងធ្វើអញ្ចឹងយើងអាចកាត់",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 970670,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 970680,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "បន្ថយត្របហើយយើងអាច",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 972949,
+    "dDurationMs": 2211,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 972959,
+    "dDurationMs": 3761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "increase",
+      "acAsrConf": 0
+    }, {
+      "utf8": " enrollment",
+      "tOffsetMs": 560,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 975150,
+    "dDurationMs": 1570,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 975160,
+    "dDurationMs": 3080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ហើយបើយើងមាន",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 976710,
+    "dDurationMs": 1530,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 976720,
+    "dDurationMs": 2559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "counសelling",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 978230,
+    "dDurationMs": 1049,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 978240,
+    "dDurationMs": 4039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ហើយនិង",
+      "acAsrConf": 0
+    }, {
+      "utf8": " after",
+      "tOffsetMs": 399,
+      "acAsrConf": 0
+    }, {
+      "utf8": " school",
+      "tOffsetMs": 719,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 979269,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 979279,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "progr្រាមយើងកាត់បន្ថយសិទរពអៅតើសិទ្រព្យអាវកត្តាចេញពីណាសិស្សទ្រពអៅកត្តាចេញពីទីមួយគឺក្រុមគ្រួសារខ្្វះខ្វះការ",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 992910,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 992920,
+    "dDurationMs": 3520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "counសellingីខ្វះការប្រឹក្សា",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 995110,
+    "dDurationMs": 1330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 995120,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 996430,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 996440,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "អញ្ចឹងធ្វើឲ្យក្រុមគ្រួសារភាគច្រើនមានបញ្ហាឈ្លោះគ្នា",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 999829,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 999839,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "គ្នាបញ្ហាឈ្លោះគ្នាសង្គមទីមួយបាក់បែកអញ្ចឹងសិស្សភាគច្រើនគាត់រកសង្គមទី",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1006230,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 1006240,
+    "dDurationMs": 3640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "2",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1006870,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 1006880,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "គ្រូបង្រៀនអនា្យទីរបស់គាត់បើអណាតាអាណាទីពរមួយថ្ងៃរវល់បង្រៀនគួរសូមបីតំប្រៀនអត់បានចូលចិត្តទុកដាក់ផងអញ្ចឹងលក៏បាត់វិន័យគ្រូក៏បាត់តើណាព្យាបាលទីពីរយកចិត្តទុកដាក់មើលកូនរបស់យើងនេះដែលក្រុមគ្រួសារទីមួយកំពុងបាកបែកអញ្ចឹងអត់ទេអញ្ចឹងភាគច្រើនគាត់ទៅ",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1029429,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 1029439,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ទៅរត់ទៅរកសង្គមទី",
+      "acAsrConf": 0
+    }, {
+      "utf8": " 3",
+      "tOffsetMs": 1281,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1031710,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 1031720,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ទីលានសាលាគឺសាលារៀនចុះសាលារៀនដែលមានកន្លែងកីឡាឲ្យក្មេងលានទេដែលមាន",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1038710,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 1038720,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "after",
+      "acAsrConf": 0
+    }, {
+      "utf8": " school",
+      "tOffsetMs": 359,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1039350,
+    "dDurationMs": 2370,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 1039360,
+    "dDurationMs": 2800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ប្រូក្រាមឲ្យក្មេងទៅរកទេតើមាន",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1041710,
+    "dDurationMs": 450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 1041720,
+    "dDurationMs": 3440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "toing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1042150,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 1042160,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ប្រូក្រាមឲ្យក្មេងទៅជួយធ្វើមេរៀនកិច្ចការសេះទេអត់ចុះសង្គមទីមួយអត់សង្គមទី",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1049190,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 1049200,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "2",
+      "acAsrConf": 0
+    }, {
+      "utf8": " អត់សង្គមទី",
+      "tOffsetMs": 240,
+      "acAsrConf": 0
+    }, {
+      "utf8": " 3",
+      "tOffsetMs": 1640,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1051110,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 1051120,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "អត់តើក្មេងរាល់ថ្ងៃធ្លាក់ចូលសង្គមទីប៉ុន្មានសង្គមទី",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1056029,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 1056039,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "4",
+      "acAsrConf": 0
+    }, {
+      "utf8": " សង្គមទី",
+      "tOffsetMs": 801,
+      "acAsrConf": 0
+    }, {
+      "utf8": " 4",
+      "tOffsetMs": 1281,
+      "acAsrConf": 0
+    }, {
+      "utf8": " សង្គមមិត្តភក្ិហើយសង្គម",
+      "tOffsetMs": 1441,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1059110,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 1059120,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "សង្គុមមិត្តភហ្នឹងគឺបើក្មេងធ្លាក់បីសង្គមហើយសង្គមមិត្តភិ្តគាត់គឺសង្គមមិត្តភិ្តដោយអូសទាញបានហើយភាគច្រើនគឺគាត់ហ្នឹងឲ្យសិស្សជើងធំបងធំបងទូចអ្នកអូសទានដូច្នេះសង្ឃឹមថា",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1075950,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 1075960,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recomendដេរបស់ខ្ញុំហ្នឹងគឺថាមិនបាច់អង្គុយរើប្រាំអីផ្សេងៗអស់លុយច្រើនហើយរញេរញៃខាតបង់ពេលវេលាធ្វើឲ្យក្រសួងវិលមុខហើយធ្វើ",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1088630,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 1088640,
+    "dDurationMs": 3360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ធ្វើឲ្យសាលាវែងធ្វើតែ",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1091310,
+    "dDurationMs": 690,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 1091320,
+    "dDurationMs": 3680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traditional",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1091990,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 1092000,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "យើងធ្វើពង្រឹងកម្មវិធីមួយៗខ្ញុំនិយាយមិញហ្នឹងហើយរុញឲ្យវាដើរតាមកាលៈទេសៈតាមពេលវេលាអំណោយផលហើយតាមលទ្ធភាពដែលយើងមានពីសហគមន៍ដេញមករាជធានីភ្នំពេញយើងនឹងជោគជ័យឲ្យសាលាអំណោយឲ្យផលដ៏សិស្សរបស់យើងរាប់លាននាក់ហើយគ្រូពង្រឹងគ្រូកកុសលឲ្យច្រើនហើយពង្រឹងមរលឲ្យបានខ្លាំង",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1118669,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 1118679,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ហើយដាក់វិធានការវិន័យដ៏គ្រូដើម្បីធ្វើការរបស់គាត់ឲ្យបានត្រឹមត្រូវសាលាយើងនឹងបានជោគជ័យសតវរទី",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1126950,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 1126960,
+    "dDurationMs": 6912,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "21",
+      "acAsrConf": 0
+    }, {
+      "utf8": " អាណត្តិទី",
+      "tOffsetMs": 480,
+      "acAsrConf": 0
+    }, {
+      "utf8": " 7",
+      "tOffsetMs": 1160,
+      "acAsrConf": 0
+    }, {
+      "utf8": " នេះនិងអស្ចារ្យអរគុណច្រើន",
+      "tOffsetMs": 1400,
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1130669,
+    "dDurationMs": 3203,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 1130679,
+    "dDurationMs": 3193,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ja",
+      "acAsrConf": 0
+    }, {
+      "utf8": " [ការ​ទះដៃ]",
+      "tOffsetMs": 1173
+    } ]
+  } ]
+}

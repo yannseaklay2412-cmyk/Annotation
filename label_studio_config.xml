@@ -1,0 +1,50 @@
+<View>
+  <!-- 1. Source Context Header -->
+  <Header value="Clip: $chunk_id | Source: $platform" />
+
+  <!-- 2. Audio Waveform Player with Code-Switching Region Annotation -->
+  <Header value="1. Audio Waveform (Drag on waveform to mark Code-Switching boundaries)" />
+  <Audio name="audio" value="$audio" zoom="true"/>
+  <Labels name="audio_regions" toName="audio">
+    <Label value="English [en]" background="#1976D2"/>
+    <Label value="Khmer [km]" background="#388E3C"/>
+    <Label value="Code-Switching Segment" background="#F57C00"/>
+    <Label value="Unintelligible / Noise" background="#D32F2F"/>
+  </Labels>
+
+  <!-- 3. Verbatim Dual-Script Transcription -->
+  <Header value="2. Verbatim Transcription (Khmer Script + English Words in Latin)" />
+  <TextArea name="transcription" toName="audio" value="$transcript"
+            placeholder="Listen and correct transcription verbatim (Khmer script, English words in Latin)..."
+            rows="3" editable="true" required="true"/>
+
+  <!-- 4. Language Combination Verification -->
+  <Header value="3. Language Combination" />
+  <Choices name="language_combo" toName="audio" choice="single" required="true">
+    <Choice value="Khmer-English" selected="true"/>
+    <Choice value="Monolingual Khmer"/>
+    <Choice value="Monolingual English"/>
+    <Choice value="Khmer-Other Language"/>
+  </Choices>
+
+  <!-- 5. Quality & Decision Flags (Capstone 1 Requirement) -->
+  <Header value="4. Quality &amp; Uncertainty Flags" />
+  <Choices name="quality_flags" toName="audio" choice="multiple">
+    <Choice value="Clear Speech"/>
+    <Choice value="Background Music / Noise"/>
+    <Choice value="Overlapping Voices"/>
+    <Choice value="Uncertain Language Decision (Review Needed)"/>
+    <Choice value="Severe Boundary Cutoff / Clipping"/>
+  </Choices>
+
+  <!-- 6. Target Domain Verification (6 Target Domains) -->
+  <Header value="5. Target Domain Verification" />
+  <Choices name="domain" toName="audio" choice="single">
+    <Choice value="Podcasts and Interviews"/>
+    <Choice value="Education"/>
+    <Choice value="Social Issues"/>
+    <Choice value="Politics and Current Affairs"/>
+    <Choice value="Technology"/>
+    <Choice value="Entertainment and Lifestyle"/>
+  </Choices>
+</View>

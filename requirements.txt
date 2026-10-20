@@ -1,0 +1,7 @@
+gspread>=6.0.0
+yt-dlp>=2024.0.0
+label-studio>=1.12.0
+
+# Optional fallback transcription (if subtitle cues are missing):
+# openai-whisper>=20231117
+# torch>=2.0.0
