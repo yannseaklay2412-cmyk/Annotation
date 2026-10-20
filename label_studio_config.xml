@@ -2,14 +2,12 @@
   <!-- 1. Source Context Header -->
   <Header value="Clip: $chunk_id | Source: $platform | Domain: $domain" />
 
-  <!-- 2. Audio Waveform Player with Code-Switching Region Annotation -->
-  <Header value="1. Audio Waveform (Drag on waveform to mark Code-Switching boundaries)" />
+  <!-- 2. Audio Waveform Player with Khmer and English Region Labels -->
+  <Header value="1. Audio Waveform (Drag on waveform to mark Khmer / English boundaries)" />
   <Audio name="audio" value="$audio" zoom="true"/>
   <Labels name="audio_regions" toName="audio">
     <Label value="English [en]" background="#1976D2"/>
     <Label value="Khmer [km]" background="#388E3C"/>
-    <Label value="Code-Switching Segment" background="#F57C00"/>
-    <Label value="Unintelligible / Noise" background="#D32F2F"/>
   </Labels>
 
   <!-- 3. Verbatim Dual-Script Transcription -->
